@@ -19,7 +19,7 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-
+```
 ### Developed By: P.Siva Naga Nithin
 ### Register Number: 212221240037
 ### To Read,display the image
@@ -63,7 +63,7 @@ tag = color[20:80,20:80]
 color[90:150,90:150] = tag
 cv2.imshow('212221240037-AccessingRowsAndColumns',color)
 cv2.waitKey(0)
-
+```
 ## Output:
 
 ### i) Read and display the image

@@ -1,3 +1,8 @@
+<img width="193" alt="Accessing" src="https://user-images.githubusercontent.com/94154780/160878970-0a38bdb7-a99c-4d85-ad6f-fd96117751ef.png">
+<img width="194" alt="Accessingrowsandcolumns" src="https://user-images.githubusercontent.com/94154780/160878982-49222d31-c5d7-4476-ba06-6b0243b1fb42.png">
+<img width="172" alt="Reading" src="https://user-images.githubusercontent.com/94154780/160878987-d8d90f0d-9f00-453b-9347-333f21941bda.png">
+<img width="960" alt="shape" src="https://user-images.githubusercontent.com/94154780/160878990-de3a826b-0267-44bb-ab92-95a7c8bb2ef7.png">
+<img width="175" alt="write" src="https://user-images.githubusercontent.com/94154780/160878996-dd2598b8-ee4d-442c-8c95-af3303157d89.png">
 # READ AND WRITE AN IMAGE
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
@@ -72,7 +77,7 @@ cv2.waitKey(0)
 
 ### i) Read and display the image
 
-![output](./)
+![output](Reading.png)
 
 ### ii)Write the image
 

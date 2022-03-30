@@ -77,21 +77,21 @@ cv2.waitKey(0)
 
 ### ii)Write the image
 
-<br>
-<br>
+<img width="175" alt="write" src="https://user-images.githubusercontent.com/94154780/160880178-cf076db7-b4aa-4c7d-b8b5-559c4616834d.png">
+
 
 ### iii)Shape of the Image
 
-<br>
-<br>
+<img width="960" alt="shape" src="https://user-images.githubusercontent.com/94154780/160880203-d3815043-1158-4362-b5a5-981797826757.png">
+
 
 ### iv)Access rows and columns
-<br>
-<br>
+![Uploading Accessing.png…]()
+
 
 ### v)Cut and paste portion of image
-<br>
-<br>
+<img width="194" alt="Accessingrowsandcolumns" src="https://user-images.githubusercontent.com/94154780/160880318-f91bba5b-548b-4585-b3ea-be4102663dbc.png">
+
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.

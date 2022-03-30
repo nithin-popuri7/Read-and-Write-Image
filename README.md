@@ -1,9 +1,9 @@
 # READ AND WRITE AN IMAGE
 ## AIM
-To write a python program using OpenCV to do the following image manipulations.<br>
-i) Read, display, and write an image.<br>
-ii) Access the rows and columns in an image.<br>
-iii) Cut and paste a small portion of the image.<br>
+To write a python program using OpenCV to do the following image manipulations.
+i) Read, display, and write an image.
+ii) Access the rows and columns in an image.
+iii) Cut and paste a small portion of the image.
 
 ## Software Required:
 Anaconda - Python 3.7
@@ -19,7 +19,7 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-```
+
 # Developed By: P.Siva Naga Nithin
 # Register Number: 212221240037
 # To Read,display the image
@@ -66,7 +66,6 @@ color[90:150,90:150] = tag
 cv2.imshow('212221240037-AccessingRowsAndColumns',color)
 cv2.waitKey(0)
 
-```
 ## Output:
 
 ### i) Read and display the image

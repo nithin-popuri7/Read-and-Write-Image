@@ -19,11 +19,11 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-
+```
 ### Developed By: P.Siva Naga Nithin
 ### Register Number: 212221240037
 ### To Read,display the image
-```
+
 import cv2
 color=cv2.imread('th.jpg',1)
 cv2.imshow('212221240037',color)

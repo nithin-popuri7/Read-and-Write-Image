@@ -72,9 +72,7 @@ cv2.waitKey(0)
 
 ### i) Read and display the image
 
-<br>
-![Output](Reading.jpg)
-<br>
+![output](./)
 
 ### ii)Write the image
 

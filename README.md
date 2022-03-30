@@ -77,8 +77,7 @@ cv2.waitKey(0)
 
 ### i) Read and display the image
 
-![output](<img width="172" alt="Reading" src="https://user-images.githubusercontent.com/94154780/160879338-bc218f22-72f3-4450-b768-15b6fd477ffe.png">
-Reading.png)
+![output](Reading.png)
 
 ### ii)Write the image
 

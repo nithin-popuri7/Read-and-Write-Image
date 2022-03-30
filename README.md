@@ -86,7 +86,7 @@ cv2.waitKey(0)
 
 
 ### iv)Access rows and columns
-![Uploading Accessing.png…]()
+<img width="193" alt="Accessing" src="https://user-images.githubusercontent.com/94154780/160880535-83c8bae4-e8e7-44c1-a654-f9fc72477fa6.png">
 
 
 ### v)Cut and paste portion of image

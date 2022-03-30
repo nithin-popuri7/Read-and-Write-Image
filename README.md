@@ -45,7 +45,12 @@ End the program and close the output image windows.
 
 
 # To cut and paste portion of image
-
+import cv2
+color=cv2.imread('th.jpg',1)
+tag = color[20:80,20:80]
+color[90:150,90:150] = tag
+cv2.imshow('212221240037-AccessingRowsAndColumns',color)
+cv2.waitKey(0)
 
 
 

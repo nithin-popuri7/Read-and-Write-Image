@@ -23,7 +23,7 @@ End the program and close the output image windows.
 ### Developed By: P.Siva Naga Nithin
 ### Register Number: 212221240037
 ### To Read,display the image
-~~~
+~~~python
 import cv2
 color=cv2.imread('th.jpg',1)
 cv2.imshow('212221240037',color)
@@ -31,7 +31,7 @@ cv2.waitKey(0)
 ~~~
 
 ### To write the image
-~~~
+~~~python
 import cv2
 color=cv2.imread('th.jpg',1)
 cv2.imwrite('th.jpg',color)
@@ -39,14 +39,14 @@ cv2.waitKey(0)
 
 ~~~
 ### Find the shape of the Image
-~~~
+~~~python
 import cv2
 color=cv2.imread('th.jpg',1)
 print(color.shape)
 ~~~
 
 ### To access rows and columns
-~~~
+~~~python
 import cv2
 color=cv2.imread('th.jpg',1)
 import random
@@ -58,7 +58,7 @@ cv2.waitKey(0)
 
 ~~~
 ### To cut and paste portion of image
-~~~
+~~~python
 import cv2
 color=cv2.imread('th.jpg',1)
 tag = color[20:80,20:80]
